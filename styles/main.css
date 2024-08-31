@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+
+  max-width: 1216px;
+  margin: auto;
+  padding-block: 24px;
+}
+
+main img {
+  max-width: 286px;
+  max-height: 286px;
+  object-fit: cover;
+}
