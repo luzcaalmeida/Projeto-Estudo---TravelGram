@@ -1,8 +1,9 @@
 footer {
   display: flex;
   justify-content: space-between;
-  
-padding-block: 24px;
+
+  padding-block: 24px;
+  font: 14/150% var(--font-family);
 }
 
 footer div {

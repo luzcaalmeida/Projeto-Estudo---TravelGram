@@ -13,6 +13,12 @@ header {
   gap: 32px;
 }
 
+#mainprofile img {
+  max-width: 176px;
+  max-height: 176px;
+  object-fit: cover;
+}
+
 #descabout {
   padding-block: 4px;
   max-width: 384px;
